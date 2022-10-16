@@ -1,6 +1,6 @@
 ## Installation
 ```bash
-git clone https://github.com/liltousin/IntensiviPostuplenie
+gh repo clone liltousin/IntensiviPostuplenie
 cd IntensiviPostuplenie
 pip install -r requirements.txt
 ```
